@@ -53,48 +53,53 @@ me.say_hi()
 
 
 ### 💻 Languages
+<br/>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" align="center" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="32" align="center" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" align="center" /> <b>TypeScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" align="center" /> <b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" align="center" /> <b>CSS3</b>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" align="center" /> Python &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="32" align="center" /> Java &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" align="center" /> TypeScript &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" align="center" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" align="center" /> CSS3
 </div>
 <br/>
 
 ### 🤖 AI / ML Frameworks
+<br/>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" align="center" /> <b>PyTorch</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="32" align="center" /> <b>Keras</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" align="center" /> <b>Scikit-learn</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" align="center" /> <b>Pandas</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/robotframework/6366F1" height="32" align="center" /> <b>CrewAI</b>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" align="center" /> PyTorch &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="32" align="center" /> Keras &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" align="center" /> Scikit-learn &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" align="center" /> Pandas &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/robotframework/6366F1" height="32" align="center" /> CrewAI
 </div>
 <br/>
 
 ### 🌐 Web & Backend
+<br/>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" align="center" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" align="center" /> <b>FastAPI</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" align="center" /> <b>TailwindCSS</b>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" align="center" /> React &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" align="center" /> FastAPI &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" align="center" /> TailwindCSS
 </div>
 <br/>
 
 ### 🗄️ Databases
+<br/>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" align="center" /> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" align="center" /> <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" align="center" /> <b>MongoDB</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/qdrant/FF3621" height="32" align="center" /> <b>Qdrant</b>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" align="center" /> PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" align="center" /> MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" align="center" /> MongoDB &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/FF3621" height="32" align="center" /> Qdrant
 </div>
 <br/>
 
 ### ☁️ DevOps & Cloud
+<br/>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" align="center" /> <b>AWS</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="32" align="center" /> <b>GCP</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" align="center" /> <b>Docker</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32" align="center" /> <b>Git</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" align="center" /> AWS &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="32" align="center" /> GCP &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" align="center" /> Docker &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" align="center" /> Git
 </div>
 
 ---
