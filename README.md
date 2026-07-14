@@ -51,37 +51,50 @@ me.say_hi()
 
 <div align="center">
 
+
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" align="center" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="32" align="center" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" align="center" /> <b>TypeScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" align="center" /> <b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" align="center" /> <b>CSS3</b>
+</div>
+<br/>
 
 ### 🤖 AI / ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=for-the-badge&logo=robot&logoColor=white)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" align="center" /> <b>PyTorch</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="32" align="center" /> <b>Keras</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" align="center" /> <b>Scikit-learn</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" align="center" /> <b>Pandas</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/robotframework/6366F1" height="32" align="center" /> <b>CrewAI</b>
+</div>
+<br/>
 
 ### 🌐 Web & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" align="center" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" align="center" /> <b>FastAPI</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" align="center" /> <b>TailwindCSS</b>
+</div>
+<br/>
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant_VectorDB-DC143C?style=for-the-badge&logo=databricks&logoColor=white)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" align="center" /> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" align="center" /> <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="32" align="center" /> <b>MongoDB</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/FF3621" height="32" align="center" /> <b>Qdrant</b>
+</div>
+<br/>
 
 ### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" align="center" /> <b>AWS</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="32" align="center" /> <b>GCP</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" align="center" /> <b>Docker</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" align="center" /> <b>Git</b>
 </div>
 
 ---
@@ -145,26 +158,6 @@ me.say_hi()
 
 ---
 
-## 📚 Publications
-
-<div align="left">
-
-> 📄 **Emotion and Cause Detection in Dialogues Using Capsule Networks** — *06 Feb 2025*
-> - Developed models for accurate detection and attribution of emotions within dynamic text contexts.
-> - Engineered solutions to identify emotional triggers: **+10% improvement in accuracy & performance**.
-
-> 📄 **Enhancing Named Entity Recognition with a BERT-DQN Hybrid Model** — *04 Nov 2024*
-> - Proposed a **BERT-CRF-DQN hybrid** model for NER, outperforming the base-BERT model.
-> - Achieved **Precision: 0.955 | Recall: 0.951 | F1-Score: 0.953** on CoNLL 2003 dataset.
-
-> 📄 **Enhancing Brain Tumor Diagnosis with Generative Adversarial Networks** — *21 Mar 2024*
-> - Proposed GAN-based MRI image enhancement method with **SSIM-based similarity** scoring.
-> - Achieved a high **pixel accuracy of 86%** for brain tumor diagnosis improvement.
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="left">
@@ -180,41 +173,11 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements & Leadership
-
-<div align="center">
-
-| 🏅 Achievement | 📍 Venue | 📅 Date |
-|----------------|----------|---------|
-| 🥇 **Flash Hackathon** — Led a winning team of 3 (Theme: FinTech) | ASE, Chennai | Mar 2024 |
-| 🌐 **Domain Head (Neuranet)** @ Neuranix Technical Club — Coordinated 6 mentors & 40+ members | ASE, Chennai | 2023 – 2024 |
-
-</div>
-
----
-
-## 📜 Certifications
-
-- 🏛️ **Python For Data Science** — IIT Madras via NPTEL
-- 🧠 **Emotional Intelligence: Cultivating Immensely Human Interactions** — University of Michigan via Coursera
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyam-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-7&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-7&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakLabel=8b5cf6&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shyam-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shyam-7&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakLabel=8b5cf6&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
